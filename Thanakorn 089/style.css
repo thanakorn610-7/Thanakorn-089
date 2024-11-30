@@ -1,0 +1,58 @@
+/* ทั่วไป */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #e60f0f;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    margin: 10px 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+/* Main */
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #000000;
+}
+
+section {
+    margin-bottom: 20px;
+    background-color: #f8ddc5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
